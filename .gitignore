@@ -1,0 +1,5 @@
+bin/
+obj/
+.idea
+spell.txt
+*.DotSettings.user
