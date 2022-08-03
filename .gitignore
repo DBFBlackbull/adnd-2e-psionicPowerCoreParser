@@ -2,4 +2,5 @@ bin/
 obj/
 .idea
 spell.txt
+powers.txt
 *.DotSettings.user
